@@ -40,6 +40,10 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+<details>
+    <summary>Example with a screenshot - bar</summary>
+    <img src="https://imgs.xkcd.com/comics/random_number.png">
+</details>
 
 ## Release History
 
